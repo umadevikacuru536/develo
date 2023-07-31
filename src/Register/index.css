@@ -1,0 +1,27 @@
+.label{
+    margin-left: 40px;
+   
+}
+.control{
+    margin-left: 20px;
+   
+}
+.button{
+    background-color: rgb(12, 12, 230);
+    color: white;
+    width: 180px;
+ align-items: center;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.img{
+    height:300vh;
+    width: 300vw;
+   
+   
+}
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
